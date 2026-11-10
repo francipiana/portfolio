@@ -12,3 +12,4 @@ I am a first-year **MSc student in Environmental Science** at the **University o
 My main interests are mountain environments, glaciers, snow and avalanches, and the effects of climate change on the Alps. Alongside my studies, I work as a snowboard instructor in Gressoney-Saint-Jean and as a hiking guide, and I have completed the AINEVA avalanche courses 2a and 2ri.
 
 Through this portfolio, I document the geoinformatics skills I am developing at UNIL, with the aim of combining field knowledge of mountain terrain with spatial data analysis.
+ 

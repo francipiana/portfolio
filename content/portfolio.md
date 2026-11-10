@@ -1,34 +1,26 @@
-# Portfolio de compétences
+# Skills portfolio
 
-**Orientation :**
+**Orientation:** Environmental Sciences
 
-[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
-
----
-
-## 1. Cinq compétences que je reconnais avoir travaillées
-
-*Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
-
-1. 
-2. 
-3. 
-4. 
-5. 
+[Knowledge tree](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)
 
 ---
 
-## 2. Trois de ces cinq, avec leur preuve
+## 1. Five skills I have worked on
 
-*Une ligne par preuve. La dernière colonne est la plus importante : peux-tu rouvrir cette preuve en deux minutes ?*
+1. **GEOINFII-1** – Automating geospatial processing
+2. **GEOINFII-2** – Selecting open geodata
+3. **GEOINFII-3** – Geospatial analysis for a research question
+4. **MODENUME-2** – Python coding and debugging
+5. **GEOINFII-9** – Communicating on a personal website
 
-| Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
+---
+
+## 2. Three of these five, with evidence
+
+| Skill | Evidence | What I decided | Where to find it |
 |---|---|---|---|
-| Compétence 1 |  |  |  |
-| Compétence 2  |  |  |  |
-|  Compétence 3 |  |  |  |
-|  Compétence 4 (hors cursus) |  |  |  |
----
-
-*Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
-
+| **GEOINFII-3** | TP3 (Oct. 2026): WUI mapping in QGIS (buffer, union, intersection) and PDF map | Checked each intermediate result before moving on, and chose the layers that kept the map readable | TP3 zip and PDF on Moodle |
+| **GEOINFII-2** | Étape I (Nov. 2026): data search for avalanche paths in the Lys Valley | Contacted the regional avalanche office for non-open data and planned an alternative source | Étape I on Moodle |
+| **GEOINFII-1** | TP3: QGIS Graphical Modeler (extract → dissolve → clip) | Submitted the model even if partly finished, to show the workflow | `.model3` in the TP3 zip |
+| *Off-curriculum* – Avalanche hazard assessment | AINEVA courses 2a/2ri; snowboard instructor and hiking guide | Choose routes based on the avalanche bulletin, slope angle and aspect | AINEVA certificates |
